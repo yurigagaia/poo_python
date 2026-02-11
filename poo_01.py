@@ -20,5 +20,5 @@ class Pessoa:
 
 p1 = Pessoa("yuri",17)
 
-#chamar metodo
+#chamar método
 p1.apresentar()
