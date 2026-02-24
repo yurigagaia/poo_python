@@ -14,7 +14,6 @@ class carro:
         print(f"a marca é {self.marca}")
         print(f"o modelo é {self.ano}")
     def calcular_ano(self):
-        ano_atual
         ano =  ano_atual - self.ano
         print(f"o carro tem {ano} anos")
 class moto:
