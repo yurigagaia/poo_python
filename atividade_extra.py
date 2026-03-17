@@ -61,4 +61,4 @@ turma.adicionar_aluno(aluno1)
 turma.adicionar_aluno(aluno2)
 turma.listar_alunos()
 
-
+print("o joão é chato")
